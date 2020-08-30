@@ -1,0 +1,19 @@
+{
+  "name": "nationemul",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "ts/index.ts",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thomas-X/nationemul.git"
+  },
+  "author": "Thomas X, bolderax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thomas-X/nationemul/issues"
+  },
+  "homepage": "https://github.com/Thomas-X/nationemul#readme"
+}
