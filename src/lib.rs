@@ -58,7 +58,7 @@ pub struct GameState {
 pub fn tick () -> Result<JsValue, JsValue> {
     let mut yeeted: Vec<i32> = vec!();
     let mut i = 0;
-    while i < 500 {
+    while i < 200 {
         let x: i32 = random();
         yeeted.push(x);
         i += 1;
